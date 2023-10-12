@@ -88,6 +88,8 @@ input {
   font-size: 1.4rem;
   font-weight: 700;
   margin: 0 0.8rem;
+  background-color: #251749;
+  color: #fff;
 }
 
 .list ul {
@@ -111,7 +113,7 @@ input {
 input[type="checkbox"] {
   height: 2rem;
   width: 2rem;
-  accent-color: #e5771f;
+  accent-color: #251749;
 }
 
 .list li button {
